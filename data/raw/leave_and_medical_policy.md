@@ -5,7 +5,7 @@
 
 ### 1. Purpose
 
-This policy defines the project corpus's procedures for ordinary leave, medical absence, supporting documents, and requests for consideration. It is designed to test whether a retrieval system can distinguish a general attendance rule from a specific medical exception.
+This policy defines procedures for ordinary leave, medical absence, supporting documents, and requests for academic consideration. It includes a specific provision concerning examination eligibility in approved medical-leave cases.
 
 ### 2. Ordinary Leave
 
@@ -21,25 +21,25 @@ A medical certificate does not by itself guarantee approval. The competent autho
 
 ### 4. Medical Attendance Exception
 
-**For the controlled RuleGuard corpus, an approved medical-leave case may be considered for examination eligibility when course attendance is at least 60%.**
+An approved medical-leave case may be considered for examination eligibility when course attendance is at least **60%**.
 
-This provision is intentionally placed alongside the general 75% attendance requirement in the Attendance Policy. When a question concerns a student with approved medical leave and attendance between 60% and 74%, the system must retrieve both provisions and classify the result as CONFLICT unless an additional corpus provision resolves the relationship.
+The provision applies where the medical leave has been properly approved and the conditions for medical consideration have been satisfied.
 
 ### 5. Approval Timing
 
 Medical documentation should be submitted within the period stated in the relevant notice or procedure. Late submission may require additional review.
 
-The corpus does not state that every late medical submission must be rejected. Where no specific consequence is stated, the system should not invent one.
+The corpus does not state that every late medical submission must be rejected. Where no specific consequence is stated, the applicable procedure should be consulted.
 
 ### 6. Medical Leave and Examinations
 
 Approval of medical leave concerns the student's absence. Permission to take a missed examination concerns examination eligibility or a separate examination procedure. These concepts should not be conflated.
 
-If the student asks whether a missed examination can be rescheduled after medical leave, the system should retrieve the examination provisions as well as this policy.
+Questions concerning a missed examination after medical leave should also be considered under the applicable examination provisions.
 
 ### 7. Family and Social Events
 
-This policy does not establish a general examination exemption for family weddings, vacations, festivals, birthdays, or other social events. Questions about such circumstances may therefore be NOT_COVERED unless another corpus document specifically addresses them.
+This policy does not establish a general examination exemption for family weddings, vacations, festivals, birthdays, or other social events. Questions about such circumstances depend on whether an applicable provision specifically addresses the reason for the absence.
 
 ### 8. Long-Term Medical Circumstances
 
@@ -57,8 +57,8 @@ Students should retain copies of medical submissions, acknowledgements, and appr
 
 A medical approval can have different consequences depending on the provision invoked. A correction to an attendance record addresses whether a recorded absence was entered incorrectly. An exemption addresses whether a stated eligibility condition can be treated differently.
 
-The system should not describe an exemption as an attendance-record correction unless the corpus explicitly makes that connection.
+An exemption should not be treated as an attendance-record correction unless the applicable provision expressly makes that connection.
 
-### 12. RuleGuard Test Principle
+### 12. Relationship with Attendance Requirements
 
-The key retrieval challenge in this document is the relationship between Section 4 and the general 75% rule. A high-quality answer should cite both sections and explain that the corpus contains inconsistent thresholds rather than confidently selecting 60% or 75% without acknowledging the conflict.
+The medical attendance provision should be considered together with the general attendance requirement applicable to examination eligibility. The student's attendance percentage, approval status, and the circumstances covered by the medical provision are relevant when determining the applicable requirement.
