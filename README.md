@@ -1,30 +1,87 @@
-# RuleGuard RAG Dataset
+# RuleGuard
 
-This package is the controlled corpus for the RuleGuard conflict-aware RAG project.
+### Conflict-Aware University Policy RAG System
 
-## Contents
+RuleGuard is an evidence-first Retrieval-Augmented Generation (RAG) system designed to answer university policy questions using a controlled policy corpus.
 
-- `data/raw/medicaps_placement_policy.pdf` — the authentic 3-page placement-policy PDF supplied for the project. It is copied unchanged.
-- Six synthetic Markdown policy documents covering academic, attendance, examination, medical leave, placement, fees, and student conduct.
-- `data/test/questions.json` — 25 NOT_COVERED questions, 10 ANSWERED questions, and 3 CONFLICT questions.
-- `data/test/contradictions.json` — ground truth for the three deliberate contradictions.
+Unlike a conventional RAG chatbot that simply retrieves passages and generates an answer, RuleGuard explicitly evaluates the retrieved evidence and classifies each query into one of three categories:
 
-## Important distinction
+- **ANSWERED** — sufficient, non-conflicting evidence is available.
+- **NOT_COVERED** — the indexed corpus does not contain enough information to answer the question.
+- **CONFLICT** — multiple applicable policy provisions contain incompatible requirements, thresholds, permissions, deadlines, or outcomes.
 
-The Markdown documents are synthetic project material. They must not be represented as official university regulations. The uploaded Medi-Caps placement-policy PDF is the only authentic institutional document in this package.
+The system also exposes the retrieved evidence, source document, section, page information, and similarity score so that users can verify the basis of the decision.
 
-## Corpus requirement
+---
 
-The Markdown material is intentionally substantially longer than 6,000 words when combined with the PDF's extracted text and is designed as a controlled evaluation corpus rather than a random collection of documents.
+## Problem Statement
 
-## Intended response classes
+University policies can be distributed across multiple documents and may contain overlapping or inconsistent provisions.
 
-1. `ANSWERED` — sufficient evidence exists and no conflicting applicable provision was found.
-2. `NOT_COVERED` — the corpus does not contain a sufficient answer.
-3. `CONFLICT` — two applicable provisions give incompatible answers.
+A basic RAG system may retrieve relevant passages but can still:
 
-## Three controlled conflicts
+- confidently answer questions that are not covered by the corpus,
+- overlook conflicting policy provisions,
+- generate unsupported conclusions,
+- hide the evidence used to reach a decision.
 
-- Medical attendance: 75% general threshold vs 60% approved-medical threshold.
-- Placement participation: no subsequent recruitment after acceptance vs participation until formal joining.
-- Scholarship renewal: 15 August vs 20 August as the non-late deadline.
+RuleGuard addresses these issues by combining semantic retrieval, evidence filtering, and LLM-based evidence analysis.
+
+---
+
+## Key Features
+
+- Semantic search over a multi-document policy corpus
+- MiniLM-based text embeddings
+- FAISS vector similarity search
+- Evidence filtering before reasoning
+- Gemini-based evidence analysis
+- Explicit `ANSWERED`, `NOT_COVERED`, and `CONFLICT` classification
+- Source and section information for retrieved evidence
+- Similarity scores for retrieved passages
+- Expandable evidence cards
+- Interactive React frontend
+- FastAPI backend
+- Evaluation questions and planted conflict benchmarks
+- REST API for programmatic access
+
+---
+
+## System Architecture
+
+```text
+                         USER QUESTION
+                              |
+                              v
+                         FastAPI /ask
+                              |
+                              v
+                       MiniLM Embedding
+                              |
+                              v
+                       FAISS Vector Search
+                              |
+                              v
+                     Top-K Retrieved Evidence
+                              |
+                              v
+                       Evidence Filtering
+                              |
+                              v
+                    Gemini Evidence Analysis
+                              |
+                              v
+                    +----------------------+
+                    |     CLASSIFICATION   |
+                    +----------------------+
+                       /        |        \
+                      /         |         \
+                     v          v          v
+                ANSWERED   NOT_COVERED   CONFLICT
+                     \         |          /
+                      \        |         /
+                       v       v        v
+                       Evidence + Result
+                              |
+                              v
+                       React Frontend
