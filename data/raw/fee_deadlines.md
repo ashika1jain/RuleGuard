@@ -64,18 +64,18 @@ Transcript requests and similar academic-record services may have processing tim
 
 This corpus does not establish a general refund entitlement for every payment. A refund question should be answered only when the corpus contains a specific applicable provision.
 
-### 13. Deadline Conflict for Evaluation
+### 13. Scholarship Renewal Deadline
 
-**Section FD-13.1:** For a controlled conflict case, an administrative notice in the corpus states that scholarship renewal applications must be received by **15 August**.
+**Section FD-13.1:** An administrative notice states that scholarship renewal applications must be received by **15 August**.
 
-**Section FD-13.2:** A separate project scholarship memorandum states that scholarship renewal applications submitted by **20 August** will be accepted without late classification.
+**Section FD-13.2:** A separate scholarship memorandum states that scholarship renewal applications submitted by **20 August** will be accepted without late classification.
 
-These two provisions intentionally establish different deadlines for the same renewal action. A question asking for the final non-late scholarship renewal date should therefore be classified as CONFLICT.
+Students should check the applicable notice or memorandum when determining the deadline for scholarship renewal.
 
 ### 14. Why the Table Matters
 
-The table gives the retrieval system structured information that can be queried naturally. For example, a user may ask, "When is hostel renewal due?" The system should retrieve the row containing 05 July and 12 July and explain the distinction between standard and late-action dates.
+The table gives structured information about administrative deadlines. For example, hostel renewal is listed with a standard deadline of 05 July and a late-action date of 12 July; these dates have different administrative meanings.
 
-### 15. No Invented Fees
+### 15. Unspecified Fees
 
-If a user asks for a fee amount that is not present in this schedule or the authentic placement PDF, the system must not guess. The appropriate classification is NOT_COVERED.
+If a fee amount is not specified in this schedule or the applicable source document, the amount cannot be determined from the available provisions.
