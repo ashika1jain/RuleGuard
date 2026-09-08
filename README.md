@@ -185,6 +185,3 @@ RuleGuard/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
-
-<img width="1710" height="1016" alt="image" src="https://github.com/user-attachments/assets/173cf99d-4fee-44cd-9bc4-02ec166da274" />
