@@ -43,7 +43,7 @@ The request should normally identify the activity, dates, course affected, and a
 
 Students should report a suspected attendance-recording error within the period announced by the department. A complaint submitted after the record has been finalised may require additional verification.
 
-The system should distinguish between a rule about correcting an erroneous record and a rule that grants an exemption from the minimum attendance requirement. They are not necessarily the same thing.
+A correction to an erroneous attendance record and an exemption from the minimum attendance requirement are different administrative matters and should be handled under their applicable provisions.
 
 ### 8. Attendance and Internal Assessment
 
@@ -55,10 +55,25 @@ Periodic attendance reports may be made available through the student portal or 
 
 A student who sees 74% in an attendance report should not be told that the requirement is met merely because the student believes one missed class should not count. The relevant correction or exemption process must be followed.
 
-### 10. Interpretation Rule for the RAG System
+### 10. Interpretation
 
-The 75% rule in Section 3 is the general rule. It is intentionally placed in the same corpus as a separate medical-leave provision with a lower threshold. A question involving approved medical leave should retrieve both provisions.
+The 75% attendance requirement is the general examination-eligibility requirement. Where another applicable provision establishes a specific exception for a particular circumstance, that provision should also be considered.
 
+The applicable attendance requirement depends on the student's circumstances and the provisions governing those circumstances.
+
+### 11. Attendance Example
+
+If a student has 82% attendance in Course A and 73% in Course B, the student satisfies the stated general minimum in Course A but does not satisfy it in Course B. The percentage for one course should not be averaged with another course to create eligibility for the second course.
+
+### 12. Late Arrival
+
+Repeated late arrival may be addressed through course or departmental instructions. This document does not state that every late arrival must be converted into a fixed attendance deduction. Where no numerical penalty is specified, the applicable procedure should be consulted rather than assuming a fixed deduction.
+
+### 13. Attendance Waiver Requests
+
+A waiver request should identify the provision under which the student seeks consideration. Submission of a request does not itself grant a waiver.
+
+Where a separate policy gives a committee authority to waive an attendance condition, the request should be considered under that authority and approval should not be assumed.
 The system must not hide the general rule simply because the medical rule is more directly related to the wording of the question. Both provisions are evidence.
 
 ### 11. Attendance Example
