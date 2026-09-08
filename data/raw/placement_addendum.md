@@ -1,65 +1,56 @@
-# Placement Participation Addendum
+# Project Supplementary Student Regulations
+## Placement Policy Addendum
 
-## 1. Purpose
+> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. This document is not an official Medi-Caps University publication and does not amend the authentic placement-policy PDF included in the corpus.
 
-This document provides additional provisions concerning campus recruitment participation after a student has received a placement offer.
+### 1. Relationship to the Authentic Placement Policy
 
-These provisions are part of the synthetic policy corpus used for evaluating policy retrieval and evidence analysis.
+The corpus contains an authentic Medi-Caps University placement-policy PDF. This addendum contains additional provisions concerning campus recruitment participation and should not be treated as an amendment to the authentic document.
 
-## 2. Scope
+### 2. Placement Participation
 
-The provisions in this document apply to students participating in campus recruitment activities and receiving placement offers through those activities.
+Students participating in campus recruitment are expected to follow the procedures and penalties contained in the authentic placement-policy document. The authentic document states, among other provisions, that absence after registering for a recruitment process attracts a 20-point deduction and withdrawal after registration attracts a 30-point deduction.
 
-## 3. Placement Offer Acceptance
+### 3. Offer Acceptance
 
-A student who accepts a campus placement offer is considered to have committed to the accepted opportunity, subject to the applicable placement policies and conditions.
+A student who receives an offer through the placement process should follow the commitment and joining provisions stated in the authentic placement-policy document.
 
-Students should review the applicable placement provisions before participating in additional recruitment activities.
+### 4. Subsequent Recruitment
 
-## 4. Subsequent Recruitment
+**Section PA-4.1:** A student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.
 
-### Section PA-4.1
-
-A student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.
-
-## 5. Joining Date
+### 5. Joining Date
 
 A student who has accepted an offer may have an agreed joining date. The joining date may occur after the date on which the placement offer is accepted.
 
-The applicable placement provisions concerning offer acceptance, joining, and subsequent recruitment should be considered when determining a student's eligibility to participate in further recruitment activities.
+### 6. Second Recruitment Provision
 
-## 6. Second Recruitment Provision
+**Section PA-6.2:** A student who has accepted a placement offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation, provided the student satisfies the eligibility conditions for that recruitment process.
 
-### Section PA-6.2
+### 7. Subsequent Recruitment Eligibility
 
-A student who has accepted a placement offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation, provided the student satisfies the eligibility conditions for that recruitment process.
+Questions concerning participation in another campus recruitment process after accepting an offer should be considered in light of the provisions governing offer acceptance, recruitment participation, and formal joining.
 
-## 7. Subsequent Recruitment Eligibility
+The student's current status, including whether the student has formally joined the organisation, may be relevant when applying the applicable provisions.
 
-Questions concerning participation in another campus recruitment process after accepting an offer should be evaluated using the applicable provisions governing offer acceptance, subsequent recruitment, and joining.
+### 8. Discipline Points
 
-The student's current status, including whether the student has formally joined the organisation, may be relevant to determining which provisions apply.
+The authentic placement policy contains a penalty framework. This addendum does not establish a new numerical penalty unless a section expressly states one.
 
-## 8. Discipline Points
+### 9. Training Activities
 
-The authentic placement policy contains a separate penalty framework for placement-related conduct.
+Students should follow mandatory placement-readiness activities and other instructions contained in the authentic placement policy.
 
-This addendum does not establish a new numerical penalty unless a specific provision expressly states one.
+Questions concerning penalties for placement activities should be considered using the relevant provisions of the applicable source document.
 
-## 9. Training Activities
+### 10. Off-Campus Opportunities
 
-Students should follow mandatory placement-readiness activities and other applicable instructions contained in the placement policy.
+The authentic policy addresses independent off-campus placement participation and requires prior permission. This addendum does not override those provisions.
 
-Questions concerning penalties for placement activities should rely on the relevant provisions of the applicable source document.
+### 11. Source Attribution
 
-## 10. Off-Campus Opportunities
+The authentic placement-policy PDF and this addendum are separate documents. When a provision from either document is used, the relevant document and section should be identified.
 
-The authentic placement policy addresses independent off-campus placement participation and may require prior permission.
+### 12. Applicability
 
-This addendum does not override those provisions.
-
-## 11. Interpretation
-
-When multiple provisions may apply to the same student situation, the relevant provisions should be considered together with the student's specific circumstances.
-
-Questions concerning subsequent recruitment should consider the applicable requirements relating to accepted offers, recruitment participation, and formal joining.
+Where more than one provision concerns the same recruitment situation, the applicable provisions should be considered together with the student's specific circumstances, including offer acceptance status and joining status.
