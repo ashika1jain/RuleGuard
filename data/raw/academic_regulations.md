@@ -5,7 +5,7 @@
 
 ### 1. Purpose and Scope
 
-These supplementary academic regulations define a fictional, controlled set of university rules for testing an evidence-grounded question-answering system. They cover academic registration, course selection, credits, semester progression, examinations, attendance, leave, academic records, and administrative procedures. Where another document in the corpus contains a more specific provision, the system should retrieve both provisions rather than assuming that the longer or newer-looking provision automatically overrides the other one.
+These supplementary academic regulations define a fictional set of university rules covering academic registration, course selection, credits, semester progression, examinations, attendance, leave, academic records, and administrative procedures. Where another document contains a more specific provision, the applicable provisions should be considered together before determining which rule applies.
 
 ### 2. Academic Year and Semester Structure
 
@@ -61,7 +61,7 @@ Students should retain copies of important submissions, receipts, approvals, and
 
 When a rule requires approval from a department, examination office, academic committee, or other authority, the request must be submitted through the process prescribed for that authority. Approval by an unauthorised individual does not automatically satisfy a rule requiring approval from a specified authority.
 
-Where two provisions appear to apply to the same situation, the provisions should be presented together to the decision-maker rather than silently choosing one. The purpose of this corpus is specifically to test whether a retrieval system can expose such conflicts.
+Where two provisions appear to apply to the same situation, both provisions should be considered by the relevant decision-maker before determining the applicable rule.
 
 ### 11. Exceptional Circumstances
 
@@ -73,4 +73,4 @@ A general statement that a situation is "urgent" does not itself establish eligi
 
 These project regulations are intended to be read section by section. Definitions should be interpreted according to the document in which they appear unless a definition is expressly stated to apply across the entire corpus.
 
-A question-answering system should not invent a rule when the corpus is silent. If the retrieved evidence does not establish an answer, the correct classification is NOT_COVERED.
+Where these regulations do not address a particular situation, no determination should be made from these provisions alone.
