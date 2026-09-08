@@ -1,56 +1,65 @@
-# Project Supplementary Student Regulations
-## Placement Policy Addendum
+# Placement Participation Addendum
 
-> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. This document is not an official Medi-Caps University publication and does not amend the authentic placement-policy PDF included in the corpus.
+## 1. Purpose
 
-### 1. Relationship to the Authentic Placement Policy
+This document provides additional provisions concerning campus recruitment participation after a student has received a placement offer.
 
-The corpus contains an authentic Medi-Caps University placement-policy PDF. This addendum is synthetic material created only for evaluating retrieval, citation, and conflict detection. It must never be presented as an official amendment to the authentic document.
+These provisions are part of the synthetic policy corpus used for evaluating policy retrieval and evidence analysis.
 
-### 2. Placement Participation
+## 2. Scope
 
-Students participating in campus recruitment are expected to follow the procedures and penalties contained in the authentic placement-policy document. The authentic document states, among other provisions, that absence after registering for a recruitment process attracts a 20-point deduction and withdrawal after registration attracts a 30-point deduction.
+The provisions in this document apply to students participating in campus recruitment activities and receiving placement offers through those activities.
 
-### 3. Offer Acceptance
+## 3. Placement Offer Acceptance
 
-A student who receives an offer through the placement process should follow the commitment and joining provisions stated in the authentic placement-policy document.
+A student who accepts a campus placement offer is considered to have committed to the accepted opportunity, subject to the applicable placement policies and conditions.
 
-### 4. Subsequent Recruitment
+Students should review the applicable placement provisions before participating in additional recruitment activities.
 
-**Section PA-4.1:** For this synthetic corpus, a student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.
+## 4. Subsequent Recruitment
 
-### 5. Joining Date
+### Section PA-4.1
 
-A student who has accepted an offer may have an agreed joining date. The synthetic rule in this document does not by itself change the authentic placement policy's provisions concerning acceptance, joining, or placement discipline.
+A student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.
 
-### 6. Second Recruitment Provision
+## 5. Joining Date
 
-**Section PA-6.2:** For this synthetic corpus, a student who has accepted an offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation, provided the student satisfies the eligibility conditions for that recruitment process.
+A student who has accepted an offer may have an agreed joining date. The joining date may occur after the date on which the placement offer is accepted.
 
-**This provision intentionally conflicts with Section PA-4.1.**
+The applicable placement provisions concerning offer acceptance, joining, and subsequent recruitment should be considered when determining a student's eligibility to participate in further recruitment activities.
 
-### 7. Interpretation of the Conflict
+## 6. Second Recruitment Provision
 
-The conflict is deliberate. A question such as "I accepted an offer but have not joined the company yet; can I sit for another campus drive?" should retrieve both PA-4.1 and PA-6.2.
+### Section PA-6.2
 
-The correct classification is CONFLICT because the two provisions give incompatible answers to the same circumstance.
+A student who has accepted a placement offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation, provided the student satisfies the eligibility conditions for that recruitment process.
 
-### 8. Discipline Points
+## 7. Subsequent Recruitment Eligibility
 
-The authentic placement policy contains a penalty framework. This synthetic addendum should not be used to invent a new numerical penalty unless a section expressly states one.
+Questions concerning participation in another campus recruitment process after accepting an offer should be evaluated using the applicable provisions governing offer acceptance, subsequent recruitment, and joining.
 
-### 9. Training Activities
+The student's current status, including whether the student has formally joined the organisation, may be relevant to determining which provisions apply.
 
-Students should follow mandatory placement-readiness activities and other instructions in the authentic placement policy. Questions about penalties should cite the authentic PDF when that is the source of the rule.
+## 8. Discipline Points
 
-### 10. Off-Campus Opportunities
+The authentic placement policy contains a separate penalty framework for placement-related conduct.
 
-The authentic policy addresses independent off-campus placement participation and requires prior permission. This addendum does not override that provision.
+This addendum does not establish a new numerical penalty unless a specific provision expressly states one.
 
-### 11. Project Demonstration Rule
+## 9. Training Activities
 
-The RuleGuard interface should distinguish between evidence from the authentic PDF and evidence from this synthetic addendum. The source name and section reference should make that distinction visible.
+Students should follow mandatory placement-readiness activities and other applicable instructions contained in the placement policy.
 
-### 12. Why the Conflict Exists
+Questions concerning penalties for placement activities should rely on the relevant provisions of the applicable source document.
 
-This conflict is a controlled evaluation case. It demonstrates why a system that retrieves only one high-similarity passage can produce a misleading answer. The intended system should retrieve multiple relevant passages and detect incompatible conditions.
+## 10. Off-Campus Opportunities
+
+The authentic placement policy addresses independent off-campus placement participation and may require prior permission.
+
+This addendum does not override those provisions.
+
+## 11. Interpretation
+
+When multiple provisions may apply to the same student situation, the relevant provisions should be considered together with the student's specific circumstances.
+
+Questions concerning subsequent recruitment should consider the applicable requirements relating to accepted offers, recruitment participation, and formal joining.
