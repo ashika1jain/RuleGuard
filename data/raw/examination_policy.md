@@ -25,7 +25,7 @@ A student should not assume that two examinations scheduled on the same day are 
 
 A student who does not appear for an examination receives the outcome prescribed by the applicable examination rules unless an approved absence procedure applies.
 
-The ordinary examination policy does not provide a special entitlement to miss an examination for a family wedding, holiday, personal travel, or similar social event. Where the corpus is silent on a particular reason, the correct response is NOT_COVERED rather than an invented exemption.
+The ordinary examination policy does not provide a special entitlement to miss an examination for a family wedding, holiday, personal travel, or similar social event. Where a particular reason for absence is not addressed by the applicable examination provisions, no special exemption can be inferred from these rules alone.
 
 ### 5. Medical Examination Absence
 
@@ -51,7 +51,7 @@ A request should not be described as a guaranteed change in marks.
 
 ### 9. Examination Fees
 
-Where an examination fee applies, the amount and payment deadline should be taken from the relevant fee notice or fee schedule. If two documents contain different deadlines for the same administrative action, the retrieval system should surface both rather than silently selecting one.
+Where an examination fee applies, the amount and payment deadline should be taken from the relevant fee notice or fee schedule. If two applicable documents contain different deadlines for the same administrative action, both dates and their associated conditions should be considered.
 
 ### 10. Practical and Viva Examinations
 
@@ -67,8 +67,8 @@ Students may be required to carry an institutional identity card or other docume
 
 Questions about examination eligibility, timetable issues, missing marks, or procedural irregularities should be submitted to the designated office. A student should retain acknowledgement of the submission.
 
-### 13. Interpretation for RuleGuard
+### 13. Interpretation
 
-When answering an examination question, the system should prefer evidence that directly addresses the student's circumstances while still displaying other applicable provisions when they create a conflict.
+When considering examination eligibility, the provisions that directly address the student's circumstances should be considered together with any other applicable requirements.
 
-If the corpus does not establish an answer, the system must state that it is not covered. It must not rely on general assumptions about what universities normally do.
+Where the available provisions do not establish an answer, the applicable academic or administrative authority should be consulted.
