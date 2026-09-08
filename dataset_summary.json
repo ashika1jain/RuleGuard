@@ -1,0 +1,18 @@
+{
+  "markdown_word_counts": {
+    "attendance_policy.md": 810,
+    "placement_addendum.md": 490,
+    "examination_policy.md": 634,
+    "fee_deadlines.md": 651,
+    "student_conduct.md": 434,
+    "academic_regulations.md": 1007,
+    "scholarship_policy.md": 1608,
+    "leave_and_medical_policy.md": 607
+  },
+  "total_markdown_words": 6241,
+  "not_covered_questions": 25,
+  "answered_questions": 10,
+  "conflict_questions": 3,
+  "intentional_conflicts": 3,
+  "authentic_pdf_included": true
+}

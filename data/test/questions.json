@@ -1,0 +1,247 @@
+{
+  "not_covered": [
+    {
+      "id": "NC_01",
+      "question": "What happens if I miss my end-semester examination because my cousin is getting married?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_02",
+      "question": "Can I take an exam from a beach resort if I have stable internet?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_03",
+      "question": "What is the dress colour required for a normal classroom lecture?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_04",
+      "question": "Can my attendance shortage be waived because I had a birthday party?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_05",
+      "question": "What happens if I miss an examination because of a family vacation?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_06",
+      "question": "Can I transfer my hostel room to another student for one month?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_07",
+      "question": "What is the maximum number of cups of coffee I can bring into the library?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_08",
+      "question": "Can I pay my tuition fee using cryptocurrency?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_09",
+      "question": "What happens if my laptop is stolen during an examination?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_10",
+      "question": "Can I replace a compulsory course with an elective from another university?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_11",
+      "question": "What is the penalty for arriving exactly three minutes late to every lecture?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_12",
+      "question": "Can my friend submit my scholarship application using their personal email?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_13",
+      "question": "How many guests can attend my project viva?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_14",
+      "question": "Can I take an examination while wearing a smartwatch?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_15",
+      "question": "What happens if I lose my hostel key twice in one semester?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_16",
+      "question": "Can I postpone my joining date at a company by six months for a vacation?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_17",
+      "question": "What happens if two students jointly own the same project laptop?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_18",
+      "question": "Can I receive attendance credit for watching a recorded lecture at home?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_19",
+      "question": "What is the university's policy for missing an exam because of a concert?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_20",
+      "question": "Can I request a refund if I simply change my mind after paying a fee?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_21",
+      "question": "What happens if I submit a medical certificate from a doctor located outside India?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_22",
+      "question": "Can I attend a different university's class and have it counted as my attendance?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_23",
+      "question": "What is the maximum number of attempts allowed for a course if the corpus does not specify it?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_24",
+      "question": "Can a parent change my registered course after the registration deadline?",
+      "expected_type": "NOT_COVERED"
+    },
+    {
+      "id": "NC_25",
+      "question": "What happens if a scholarship deadline falls on a public holiday?",
+      "expected_type": "NOT_COVERED"
+    }
+  ],
+  "answered": [
+    {
+      "id": "ANS_01",
+      "question": "What is the general minimum attendance required for an end-semester examination?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "attendance_policy.md \u00a73"
+      ]
+    },
+    {
+      "id": "ANS_02",
+      "question": "What is the standard deadline for semester tuition confirmation?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "fee_deadlines.md \u00a7Fee and Deadline Table",
+        "fee_deadlines.md \u00a75"
+      ]
+    },
+    {
+      "id": "ANS_03",
+      "question": "What are the standard and late-action dates for hostel renewal?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "fee_deadlines.md \u00a7Fee and Deadline Table",
+        "fee_deadlines.md \u00a78"
+      ]
+    },
+    {
+      "id": "ANS_04",
+      "question": "What penalty does the authentic placement policy state for absence after registering for a recruitment process?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "medicaps_placement_policy.pdf \u00a72(c), page 1"
+      ]
+    },
+    {
+      "id": "ANS_05",
+      "question": "What penalty does the authentic placement policy state for withdrawing after registration?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "medicaps_placement_policy.pdf \u00a72(d), page 1"
+      ]
+    },
+    {
+      "id": "ANS_06",
+      "question": "When is examination registration due according to the synthetic fee schedule?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "fee_deadlines.md \u00a7Fee and Deadline Table",
+        "fee_deadlines.md \u00a76"
+      ]
+    },
+    {
+      "id": "ANS_07",
+      "question": "What should a student do if they believe an attendance entry is wrong?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "attendance_policy.md \u00a77"
+      ]
+    },
+    {
+      "id": "ANS_08",
+      "question": "Does submitting a medical certificate automatically guarantee approval of medical leave?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "leave_and_medical_policy.md \u00a73"
+      ]
+    },
+    {
+      "id": "ANS_09",
+      "question": "What is the standard deadline for scholarship renewal in the fee schedule?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "fee_deadlines.md \u00a7Fee and Deadline Table",
+        "fee_deadlines.md \u00a77"
+      ]
+    },
+    {
+      "id": "ANS_10",
+      "question": "What does the authentic placement policy say happens if placement discipline points are reduced to zero?",
+      "expected_type": "ANSWERED",
+      "expected_sections": [
+        "medicaps_placement_policy.pdf \u00a78(b), page 3"
+      ]
+    }
+  ],
+  "conflict": [
+    {
+      "id": "CONFLICT_Q01",
+      "question": "I have 68% attendance and approved medical leave. Can I appear for the end-semester examination?",
+      "expected_type": "CONFLICT",
+      "expected_sections": [
+        "attendance_policy.md \u00a73",
+        "leave_and_medical_policy.md \u00a74"
+      ],
+      "conflict_id": "CONFLICT_01"
+    },
+    {
+      "id": "CONFLICT_Q02",
+      "question": "I accepted a campus placement offer but have not joined yet. Can I participate in another campus recruitment drive?",
+      "expected_type": "CONFLICT",
+      "expected_sections": [
+        "placement_addendum.md \u00a74.1",
+        "placement_addendum.md \u00a76.2"
+      ],
+      "conflict_id": "CONFLICT_02"
+    },
+    {
+      "id": "CONFLICT_Q03",
+      "question": "What is the final date for scholarship renewal without it being treated as late?",
+      "expected_type": "CONFLICT",
+      "expected_sections": [
+        "fee_deadlines.md \u00a713.1",
+        "fee_deadlines.md \u00a713.2"
+      ],
+      "conflict_id": "CONFLICT_03"
+    }
+  ]
+}

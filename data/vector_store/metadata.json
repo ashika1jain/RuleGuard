@@ -1,0 +1,1118 @@
+[
+  {
+    "text": "> **Corpus status:** This document is synthetic project material created for the RuleGuard evaluation corpus. It is not an official publication of Medi-Caps University. The authentic placement-policy PDF in this corpus is kept separately and unchanged.",
+    "source": "academic_regulations.md",
+    "section": "Academic Regulations",
+    "page": null
+  },
+  {
+    "text": "These supplementary academic regulations define a fictional, controlled set of university rules for testing an evidence-grounded question-answering system. They cover academic registration, course selection, credits, semester progression, examinations, attendance, leave, academic records, and administrative procedures. Where another document in the corpus contains a more specific provision, the system should retrieve both provisions rather than assuming that the longer or newer-looking provision",
+    "source": "academic_regulations.md",
+    "section": "1. Purpose and Scope",
+    "page": null
+  },
+  {
+    "text": "stem should retrieve both provisions rather than assuming that the longer or newer-looking provision automatically overrides the other one.",
+    "source": "academic_regulations.md",
+    "section": "1. Purpose and Scope",
+    "page": null
+  },
+  {
+    "text": "The academic year is divided into an odd semester and an even semester. The odd semester normally begins in July and concludes after the end-semester assessment period. The even semester normally begins in January and concludes after the corresponding end-semester assessment period. Exact teaching dates may be published separately by the academic office.\n\nStudents are responsible for checking the academic calendar, course registration notices, examination notices, and other official communicatio",
+    "source": "academic_regulations.md",
+    "section": "2. Academic Year and Semester Structure",
+    "page": null
+  },
+  {
+    "text": "academic calendar, course registration notices, examination notices, and other official communications made available through the university's designated student portal. A student cannot claim that a deadline did not apply merely because the student did not personally read a notice that had been properly published through the designated channel.",
+    "source": "academic_regulations.md",
+    "section": "2. Academic Year and Semester Structure",
+    "page": null
+  },
+  {
+    "text": "A student must complete semester registration within the period announced by the academic office. Registration normally requires confirmation of the student's programme, semester, selected courses, and any outstanding administrative requirements. A registration request may be held for review where required documents or payments are incomplete.\n\nStudents should verify their registered courses after registration closes. Errors in course registration should be reported promptly. A course appearing",
+    "source": "academic_regulations.md",
+    "section": "3. Student Registration",
+    "page": null
+  },
+  {
+    "text": "registration closes. Errors in course registration should be reported promptly. A course appearing on a student's timetable does not, by itself, establish that the course has been successfully registered if the student's official academic record does not contain the course.",
+    "source": "academic_regulations.md",
+    "section": "3. Student Registration",
+    "page": null
+  },
+  {
+    "text": "Each programme has an approved curriculum specifying compulsory courses, elective courses, practical components, projects, and other academic requirements. Students may not replace a compulsory course with an unrelated elective merely because the replacement carries the same number of credits.\n\nWhere an elective has a stated prerequisite, the prerequisite must normally be satisfied before registration. A department may permit an exception when an approved academic process explicitly authorises i",
+    "source": "academic_regulations.md",
+    "section": "4. Course Selection and Credits",
+    "page": null
+  },
+  {
+    "text": "tion. A department may permit an exception when an approved academic process explicitly authorises it. Such an exception should be recorded in the student's academic record.\n\nA student may not normally register for two courses whose scheduled final examinations occur at the same time. If a timetable conflict is created by an administrative error, the student must report it through the examination or academic office within the announced correction period.",
+    "source": "academic_regulations.md",
+    "section": "4. Course Selection and Credits",
+    "page": null
+  },
+  {
+    "text": "or academic office within the announced correction period.",
+    "source": "academic_regulations.md",
+    "section": "4. Course Selection and Credits",
+    "page": null
+  },
+  {
+    "text": "Progression from one semester to the next depends on the programme's academic requirements and any applicable backlog provisions. Students are expected to complete required credits in accordance with their programme structure.\n\nA failed course remains part of the student's academic record until it is successfully cleared according to the applicable examination procedure. Passing a later course does not automatically erase a failed course unless the academic regulations explicitly provide for suc",
+    "source": "academic_regulations.md",
+    "section": "5. Academic Progression",
+    "page": null
+  },
+  {
+    "text": "s not automatically erase a failed course unless the academic regulations explicitly provide for such treatment.",
+    "source": "academic_regulations.md",
+    "section": "5. Academic Progression",
+    "page": null
+  },
+  {
+    "text": "The university maintains an academic record containing courses, grades, credits, examination outcomes, and other approved academic information. Students should report apparent errors through the designated academic-record correction process.\n\nRequests for correction should identify the course, semester, nature of the suspected error, and supporting evidence. The submission of a correction request does not itself change the official record. A correction takes effect only after it has been approve",
+    "source": "academic_regulations.md",
+    "section": "6. Academic Records",
+    "page": null
+  },
+  {
+    "text": "does not itself change the official record. A correction takes effect only after it has been approved and recorded by the competent office.",
+    "source": "academic_regulations.md",
+    "section": "6. Academic Records",
+    "page": null
+  },
+  {
+    "text": "Students are expected to submit their own academic work except where collaboration is expressly permitted. Plagiarism, fabrication of data, impersonation, unauthorised collaboration, and unauthorised assistance during assessments may be treated as academic misconduct.\n\nThe presence of another student's work in a submission does not automatically establish who copied from whom. An academic authority may review the available evidence and apply the relevant disciplinary process.",
+    "source": "academic_regulations.md",
+    "section": "7. Academic Integrity",
+    "page": null
+  },
+  {
+    "text": "y may review the available evidence and apply the relevant disciplinary process.",
+    "source": "academic_regulations.md",
+    "section": "7. Academic Integrity",
+    "page": null
+  },
+  {
+    "text": "Where a programme contains project work, the project may include a proposal, progress review, final report, presentation, demonstration, or viva. The department may publish milestones for these components.\n\nA student who misses a project milestone should contact the project supervisor or designated coordinator. Whether a missed milestone can be rescheduled depends on the rules applicable to that component and the reason for the absence.",
+    "source": "academic_regulations.md",
+    "section": "8. Project and Practical Work",
+    "page": null
+  },
+  {
+    "text": "omponent and the reason for the absence.",
+    "source": "academic_regulations.md",
+    "section": "8. Project and Practical Work",
+    "page": null
+  },
+  {
+    "text": "The student portal is the primary location for academic notices when a notice specifically identifies the portal as the communication channel. Email or another official channel may also be used where stated.\n\nStudents should retain copies of important submissions, receipts, approvals, and communications. A screenshot of a personal conversation with another student is not by itself an official academic approval.",
+    "source": "academic_regulations.md",
+    "section": "9. Communication and Notices",
+    "page": null
+  },
+  {
+    "text": "emic approval.",
+    "source": "academic_regulations.md",
+    "section": "9. Communication and Notices",
+    "page": null
+  },
+  {
+    "text": "When a rule requires approval from a department, examination office, academic committee, or other authority, the request must be submitted through the process prescribed for that authority. Approval by an unauthorised individual does not automatically satisfy a rule requiring approval from a specified authority.\n\nWhere two provisions appear to apply to the same situation, the provisions should be presented together to the decision-maker rather than silently choosing one. The purpose of this corp",
+    "source": "academic_regulations.md",
+    "section": "10. Administrative Review",
+    "page": null
+  },
+  {
+    "text": "presented together to the decision-maker rather than silently choosing one. The purpose of this corpus is specifically to test whether a retrieval system can expose such conflicts.",
+    "source": "academic_regulations.md",
+    "section": "10. Administrative Review",
+    "page": null
+  },
+  {
+    "text": "Students may submit requests for consideration in circumstances that are not directly addressed by a standard procedure. An exceptional-circumstances request does not guarantee approval. The competent authority may consider supporting evidence, timing, academic impact, and the relevant regulation.\n\nA general statement that a situation is \"urgent\" does not itself establish eligibility for an exception.",
+    "source": "academic_regulations.md",
+    "section": "11. Exceptional Circumstances",
+    "page": null
+  },
+  {
+    "text": "ion.",
+    "source": "academic_regulations.md",
+    "section": "11. Exceptional Circumstances",
+    "page": null
+  },
+  {
+    "text": "These project regulations are intended to be read section by section. Definitions should be interpreted according to the document in which they appear unless a definition is expressly stated to apply across the entire corpus.\n\nA question-answering system should not invent a rule when the corpus is silent. If the retrieved evidence does not establish an answer, the correct classification is NOT_COVERED.",
+    "source": "academic_regulations.md",
+    "section": "12. Interpretation",
+    "page": null
+  },
+  {
+    "text": "ERED.",
+    "source": "academic_regulations.md",
+    "section": "12. Interpretation",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University policy.",
+    "source": "attendance_policy.md",
+    "section": "Attendance Policy",
+    "page": null
+  },
+  {
+    "text": "Attendance is recorded for scheduled teaching activities in accordance with the attendance procedure adopted by the relevant department. Students are responsible for being present at the scheduled start of the class or activity and for following the attendance-marking procedure.\n\nAttendance should reflect actual participation. A student should not ask another student to mark attendance on the student's behalf. Any dispute concerning an attendance entry should be raised through the department's p",
+    "source": "attendance_policy.md",
+    "section": "1. Attendance Recording",
+    "page": null
+  },
+  {
+    "text": "ent's behalf. Any dispute concerning an attendance entry should be raised through the department's prescribed process.",
+    "source": "attendance_policy.md",
+    "section": "1. Attendance Recording",
+    "page": null
+  },
+  {
+    "text": "Attendance percentage is calculated from the sessions counted as attended and the sessions counted as scheduled for the relevant course or academic period. The calculation may differ between theory courses, practical courses, workshops, and other components where the programme rules prescribe a separate method.\n\nApproved academic activities may be treated according to the relevant attendance procedure. Merely being physically present on campus does not automatically count as attendance in a part",
+    "source": "attendance_policy.md",
+    "section": "2. Attendance Calculation",
+    "page": null
+  },
+  {
+    "text": "dure. Merely being physically present on campus does not automatically count as attendance in a particular class.",
+    "source": "attendance_policy.md",
+    "section": "2. Attendance Calculation",
+    "page": null
+  },
+  {
+    "text": "Students must maintain at least **75% attendance in a course** to be eligible to appear for the corresponding end-semester examination, unless a specific approved exception applies.\n\nA student below the required percentage should not assume that the shortfall will be automatically waived. Any condonation, exemption, or special consideration must be supported by the applicable procedure.",
+    "source": "attendance_policy.md",
+    "section": "3. Minimum Attendance for Examination Eligibility",
+    "page": null
+  },
+  {
+    "text": "A student who expects to fall below the minimum should contact the appropriate academic authority as early as possible. The fact that a student attended most classes in a previous semester does not compensate for a shortage in the current course.\n\nAttendance shortages are considered course by course unless a programme regulation expressly provides another method.",
+    "source": "attendance_policy.md",
+    "section": "4. Attendance Shortage",
+    "page": null
+  },
+  {
+    "text": "Medical absence is addressed separately in the Medical Leave Policy. A student who is ill should follow the medical-documentation and leave-submission procedure. Medical documentation by itself does not necessarily convert every missed class into attended sessions.\n\nWhere the Medical Leave Policy establishes a different examination-eligibility threshold for an approved medical case, that provision is relevant to the question and must be retrieved alongside the general 75% rule.",
+    "source": "attendance_policy.md",
+    "section": "5. Medical Absence",
+    "page": null
+  },
+  {
+    "text": "is relevant to the question and must be retrieved alongside the general 75% rule.",
+    "source": "attendance_policy.md",
+    "section": "5. Medical Absence",
+    "page": null
+  },
+  {
+    "text": "A student representing the institution in an officially authorised activity may request treatment of the absence under the applicable academic procedure. Approval is not automatic merely because an activity is described as university-related.\n\nThe request should normally identify the activity, dates, course affected, and approving authority. The department may require documentary evidence.",
+    "source": "attendance_policy.md",
+    "section": "6. Participation in Official Activities",
+    "page": null
+  },
+  {
+    "text": "Students should report a suspected attendance-recording error within the period announced by the department. A complaint submitted after the record has been finalised may require additional verification.\n\nThe system should distinguish between a rule about correcting an erroneous record and a rule that grants an exemption from the minimum attendance requirement. They are not necessarily the same thing.",
+    "source": "attendance_policy.md",
+    "section": "7. Attendance Disputes",
+    "page": null
+  },
+  {
+    "text": "ing.",
+    "source": "attendance_policy.md",
+    "section": "7. Attendance Disputes",
+    "page": null
+  },
+  {
+    "text": "Where internal assessment includes an attendance-related component, the calculation should follow the course or programme scheme. A student should not infer that satisfying the minimum examination attendance automatically produces full marks for an attendance component.",
+    "source": "attendance_policy.md",
+    "section": "8. Attendance and Internal Assessment",
+    "page": null
+  },
+  {
+    "text": "Periodic attendance reports may be made available through the student portal or department. Students should review reports before the correction period closes.\n\nA student who sees 74% in an attendance report should not be told that the requirement is met merely because the student believes one missed class should not count. The relevant correction or exemption process must be followed.",
+    "source": "attendance_policy.md",
+    "section": "9. Attendance Reports",
+    "page": null
+  },
+  {
+    "text": "The 75% rule in Section 3 is the general rule. It is intentionally placed in the same corpus as a separate medical-leave provision with a lower threshold. A question involving approved medical leave should retrieve both provisions.\n\nThe system must not hide the general rule simply because the medical rule is more directly related to the wording of the question. Both provisions are evidence.",
+    "source": "attendance_policy.md",
+    "section": "10. Interpretation Rule for the RAG System",
+    "page": null
+  },
+  {
+    "text": "If a student has 82% attendance in Course A and 73% in Course B, the student satisfies the stated general minimum in Course A but does not satisfy it in Course B. The percentage for one course should not be averaged with another course to create eligibility for the second course.",
+    "source": "attendance_policy.md",
+    "section": "11. Attendance Example",
+    "page": null
+  },
+  {
+    "text": "Repeated late arrival may be addressed through course or departmental instructions. This document does not state that every late arrival must be converted into a fixed attendance deduction. Where the corpus does not specify a numerical penalty, the system should not invent one.",
+    "source": "attendance_policy.md",
+    "section": "12. Late Arrival",
+    "page": null
+  },
+  {
+    "text": "A waiver request should identify the provision under which the student seeks consideration. Submission of a request does not itself grant a waiver.\n\nWhere a separate policy gives a committee power to waive an attendance condition, the system should identify that authority rather than stating that a waiver is guaranteed.",
+    "source": "attendance_policy.md",
+    "section": "13. Attendance Waiver Requests",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University policy.",
+    "source": "examination_policy.md",
+    "section": "Examination Policy",
+    "page": null
+  },
+  {
+    "text": "Students who are eligible for an end-semester examination must complete examination registration within the published period. Examination registration and semester registration are related but distinct administrative processes.\n\nA student should verify the examination form before the deadline. A submitted form may not be editable after the correction window closes unless the examination office permits a correction.",
+    "source": "examination_policy.md",
+    "section": "1. Examination Registration",
+    "page": null
+  },
+  {
+    "text": "mits a correction.",
+    "source": "examination_policy.md",
+    "section": "1. Examination Registration",
+    "page": null
+  },
+  {
+    "text": "Eligibility to appear for an examination may depend on academic registration, attendance, outstanding requirements, and other programme-specific conditions. The general attendance requirement is stated in the Attendance Policy.\n\nWhere another policy establishes an exception for a particular circumstance, the exception must be considered together with the general requirement.",
+    "source": "examination_policy.md",
+    "section": "2. Eligibility",
+    "page": null
+  },
+  {
+    "text": "The examination timetable is published through the designated official channel. Students are expected to check the timetable and report apparent clashes through the prescribed correction process.\n\nA student should not assume that two examinations scheduled on the same day are automatically a timetable conflict. The start and end times are relevant.",
+    "source": "examination_policy.md",
+    "section": "3. Examination Timetable",
+    "page": null
+  },
+  {
+    "text": "A student who does not appear for an examination receives the outcome prescribed by the applicable examination rules unless an approved absence procedure applies.\n\nThe ordinary examination policy does not provide a special entitlement to miss an examination for a family wedding, holiday, personal travel, or similar social event. Where the corpus is silent on a particular reason, the correct response is NOT_COVERED rather than an invented exemption.",
+    "source": "examination_policy.md",
+    "section": "4. Examination Absence",
+    "page": null
+  },
+  {
+    "text": "se is NOT_COVERED rather than an invented exemption.",
+    "source": "examination_policy.md",
+    "section": "4. Examination Absence",
+    "page": null
+  },
+  {
+    "text": "A student unable to attend an examination because of illness should follow the medical-leave procedure and provide the required evidence within the stated period.\n\nApproval of medical leave and permission to take a missed examination are separate questions unless a provision explicitly connects them.",
+    "source": "examination_policy.md",
+    "section": "5. Medical Examination Absence",
+    "page": null
+  },
+  {
+    "text": "Students must follow examination-room instructions, carry permitted materials, and comply with identity-verification procedures. Unauthorised materials or communication devices may be dealt with under the academic-integrity process.",
+    "source": "examination_policy.md",
+    "section": "6. Examination Conduct",
+    "page": null
+  },
+  {
+    "text": "A supplementary or repeat examination may be available for specified academic outcomes. Eligibility, timing, and fee requirements depend on the applicable examination notice or programme rule.\n\nThis document does not establish that every student who misses an examination automatically receives a supplementary examination.",
+    "source": "examination_policy.md",
+    "section": "7. Re-Examination",
+    "page": null
+  },
+  {
+    "text": "A student may request the examination-result service identified in the relevant notice. Revaluation, verification, scrutiny, or another result-review process may have different eligibility conditions and deadlines.\n\nA request should not be described as a guaranteed change in marks.",
+    "source": "examination_policy.md",
+    "section": "8. Revaluation and Verification",
+    "page": null
+  },
+  {
+    "text": "Where an examination fee applies, the amount and payment deadline should be taken from the relevant fee notice or fee schedule. If two documents contain different deadlines for the same administrative action, the retrieval system should surface both rather than silently selecting one.",
+    "source": "examination_policy.md",
+    "section": "9. Examination Fees",
+    "page": null
+  },
+  {
+    "text": "Practical examinations, project evaluations, and viva voce assessments may have attendance, submission, or completion requirements in addition to written examination requirements.\n\nA student should not infer that a rule about written examinations automatically governs a practical evaluation unless the corpus says so.",
+    "source": "examination_policy.md",
+    "section": "10. Practical and Viva Examinations",
+    "page": null
+  },
+  {
+    "text": "Students may be required to carry an institutional identity card or other documents for examination entry. Specific requirements should be checked against the applicable examination notice.",
+    "source": "examination_policy.md",
+    "section": "11. Identity and Documents",
+    "page": null
+  },
+  {
+    "text": "Questions about examination eligibility, timetable issues, missing marks, or procedural irregularities should be submitted to the designated office. A student should retain acknowledgement of the submission.",
+    "source": "examination_policy.md",
+    "section": "12. Examination Grievances",
+    "page": null
+  },
+  {
+    "text": "When answering an examination question, the system should prefer evidence that directly addresses the student's circumstances while still displaying other applicable provisions when they create a conflict.\n\nIf the corpus does not establish an answer, the system must state that it is not covered. It must not rely on general assumptions about what universities normally do.",
+    "source": "examination_policy.md",
+    "section": "13. Interpretation for RuleGuard",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University fee notice.",
+    "source": "fee_deadlines.md",
+    "section": "Fee and Administrative Deadline Schedule",
+    "page": null
+  },
+  {
+    "text": "| Administrative item | Standard deadline | Late-action date | Notes |\n|---|---:|---:|---|\n| Semester tuition confirmation | 10 August | 17 August | Payment status must be verified in the student portal |\n| Examination registration | 20 September | 25 September | Late submission may require additional approval |\n| Scholarship renewal application | 15 August | 22 August | Supporting documents must accompany the application |\n| Hostel renewal request | 05 July | 12 July | Subject to room availabil",
+    "source": "fee_deadlines.md",
+    "section": "Fee and Deadline Table",
+    "page": null
+  },
+  {
+    "text": "accompany the application |\n| Hostel renewal request | 05 July | 12 July | Subject to room availability |\n| Library clearance request | 10 May | 17 May | Required before specified academic record services |\n| Project registration | 30 January | 05 February | Department approval may be required |\n| ID card replacement request | 15 August | 30 August | Applicable fee may apply |\n| Transcript request | 15 March | 22 March | Processing time begins after complete submission |",
+    "source": "fee_deadlines.md",
+    "section": "Fee and Deadline Table",
+    "page": null
+  },
+  {
+    "text": "| 15 March | 22 March | Processing time begins after complete submission |",
+    "source": "fee_deadlines.md",
+    "section": "Fee and Deadline Table",
+    "page": null
+  },
+  {
+    "text": "Fee amounts and deadlines in this synthetic schedule are included to provide structured tabular data for retrieval. They are not intended to represent current university charges.",
+    "source": "fee_deadlines.md",
+    "section": "1. Fee Communication",
+    "page": null
+  },
+  {
+    "text": "A student should verify that a payment has been successfully recorded rather than relying only on a bank transaction message. If the portal does not reflect the payment after the stated processing period, the student should use the designated support process.",
+    "source": "fee_deadlines.md",
+    "section": "2. Payment Verification",
+    "page": null
+  },
+  {
+    "text": "The standard deadline is the normal date by which the relevant request or payment should be completed. Students should not treat the late-action date as an automatic extension of eligibility where the table's notes require approval.",
+    "source": "fee_deadlines.md",
+    "section": "3. Standard Deadline",
+    "page": null
+  },
+  {
+    "text": "A late-action date identifies the final date in this synthetic schedule for submitting the item through the late process. A late-action submission may have additional conditions.",
+    "source": "fee_deadlines.md",
+    "section": "4. Late-Action Date",
+    "page": null
+  },
+  {
+    "text": "Semester tuition confirmation is listed as 10 August. A student should check the payment status after completing the transaction.",
+    "source": "fee_deadlines.md",
+    "section": "5. Tuition Confirmation",
+    "page": null
+  },
+  {
+    "text": "Examination registration is listed as 20 September, with a late-action date of 25 September. This schedule does not establish that every late registration will be accepted automatically.",
+    "source": "fee_deadlines.md",
+    "section": "6. Examination Registration",
+    "page": null
+  },
+  {
+    "text": "Scholarship renewal is listed as 15 August. Supporting documents should be submitted with the application where required.",
+    "source": "fee_deadlines.md",
+    "section": "7. Scholarship Renewal",
+    "page": null
+  },
+  {
+    "text": "Hostel renewal requests are listed as due on 05 July, with a late-action date of 12 July. The late-action date does not guarantee a room because room availability remains a separate condition.",
+    "source": "fee_deadlines.md",
+    "section": "8. Hostel Renewal",
+    "page": null
+  },
+  {
+    "text": "Library clearance is listed as 10 May. Students should resolve outstanding library obligations before requesting services for which clearance is required.",
+    "source": "fee_deadlines.md",
+    "section": "9. Library Clearance",
+    "page": null
+  },
+  {
+    "text": "Project registration is listed as 30 January. A department may require supervisor or coordinator approval.",
+    "source": "fee_deadlines.md",
+    "section": "10. Project Registration",
+    "page": null
+  },
+  {
+    "text": "Transcript requests and similar academic-record services may have processing times. The date of submission should not automatically be treated as the date of completion.",
+    "source": "fee_deadlines.md",
+    "section": "11. Record Requests",
+    "page": null
+  },
+  {
+    "text": "This corpus does not establish a general refund entitlement for every payment. A refund question should be answered only when the corpus contains a specific applicable provision.",
+    "source": "fee_deadlines.md",
+    "section": "12. Fee Refunds",
+    "page": null
+  },
+  {
+    "text": "**Section FD-13.1:** For a controlled conflict case, an administrative notice in the corpus states that scholarship renewal applications must be received by **15 August**.\n\n**Section FD-13.2:** A separate project scholarship memorandum states that scholarship renewal applications submitted by **20 August** will be accepted without late classification.\n\nThese two provisions intentionally establish different deadlines for the same renewal action. A question asking for the final non-late scholarshi",
+    "source": "fee_deadlines.md",
+    "section": "13. Deadline Conflict for Evaluation",
+    "page": null
+  },
+  {
+    "text": "different deadlines for the same renewal action. A question asking for the final non-late scholarship renewal date should therefore be classified as CONFLICT.",
+    "source": "fee_deadlines.md",
+    "section": "13. Deadline Conflict for Evaluation",
+    "page": null
+  },
+  {
+    "text": "The table gives the retrieval system structured information that can be queried naturally. For example, a user may ask, \"When is hostel renewal due?\" The system should retrieve the row containing 05 July and 12 July and explain the distinction between standard and late-action dates.",
+    "source": "fee_deadlines.md",
+    "section": "14. Why the Table Matters",
+    "page": null
+  },
+  {
+    "text": "If a user asks for a fee amount that is not present in this schedule or the authentic placement PDF, the system must not guess. The appropriate classification is NOT_COVERED.",
+    "source": "fee_deadlines.md",
+    "section": "15. No Invented Fees",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University policy.",
+    "source": "leave_and_medical_policy.md",
+    "section": "Leave and Medical Policy",
+    "page": null
+  },
+  {
+    "text": "This policy defines the project corpus's procedures for ordinary leave, medical absence, supporting documents, and requests for consideration. It is designed to test whether a retrieval system can distinguish a general attendance rule from a specific medical exception.",
+    "source": "leave_and_medical_policy.md",
+    "section": "1. Purpose",
+    "page": null
+  },
+  {
+    "text": "Students may submit leave requests for circumstances recognised by the applicable academic procedure. A leave request should identify the dates, course or activity affected, reason, and supporting information where required.\n\nApproval of ordinary leave does not automatically establish eligibility to miss an examination unless the relevant examination rules expressly provide for it.",
+    "source": "leave_and_medical_policy.md",
+    "section": "2. Ordinary Leave",
+    "page": null
+  },
+  {
+    "text": "A student who is medically unable to attend scheduled academic activities should submit the prescribed medical documentation through the designated process. The documentation should identify the relevant period and be sufficient for the competent authority to assess the request.\n\nA medical certificate does not by itself guarantee approval. The competent authority may request additional information where the document is incomplete or unclear.",
+    "source": "leave_and_medical_policy.md",
+    "section": "3. Medical Leave",
+    "page": null
+  },
+  {
+    "text": "where the document is incomplete or unclear.",
+    "source": "leave_and_medical_policy.md",
+    "section": "3. Medical Leave",
+    "page": null
+  },
+  {
+    "text": "**For the controlled RuleGuard corpus, an approved medical-leave case may be considered for examination eligibility when course attendance is at least 60%.**\n\nThis provision is intentionally placed alongside the general 75% attendance requirement in the Attendance Policy. When a question concerns a student with approved medical leave and attendance between 60% and 74%, the system must retrieve both provisions and classify the result as CONFLICT unless an additional corpus provision resolves the",
+    "source": "leave_and_medical_policy.md",
+    "section": "4. Medical Attendance Exception",
+    "page": null
+  },
+  {
+    "text": "h provisions and classify the result as CONFLICT unless an additional corpus provision resolves the relationship.",
+    "source": "leave_and_medical_policy.md",
+    "section": "4. Medical Attendance Exception",
+    "page": null
+  },
+  {
+    "text": "Medical documentation should be submitted within the period stated in the relevant notice or procedure. Late submission may require additional review.\n\nThe corpus does not state that every late medical submission must be rejected. Where no specific consequence is stated, the system should not invent one.",
+    "source": "leave_and_medical_policy.md",
+    "section": "5. Approval Timing",
+    "page": null
+  },
+  {
+    "text": "Approval of medical leave concerns the student's absence. Permission to take a missed examination concerns examination eligibility or a separate examination procedure. These concepts should not be conflated.\n\nIf the student asks whether a missed examination can be rescheduled after medical leave, the system should retrieve the examination provisions as well as this policy.",
+    "source": "leave_and_medical_policy.md",
+    "section": "6. Medical Leave and Examinations",
+    "page": null
+  },
+  {
+    "text": "This policy does not establish a general examination exemption for family weddings, vacations, festivals, birthdays, or other social events. Questions about such circumstances may therefore be NOT_COVERED unless another corpus document specifically addresses them.",
+    "source": "leave_and_medical_policy.md",
+    "section": "7. Family and Social Events",
+    "page": null
+  },
+  {
+    "text": "Students facing a prolonged medical circumstance may submit a request for academic consideration. The request should describe the affected period and academic consequences. Approval remains subject to the competent authority.",
+    "source": "leave_and_medical_policy.md",
+    "section": "8. Long-Term Medical Circumstances",
+    "page": null
+  },
+  {
+    "text": "Submitting altered or fabricated medical documentation may constitute misconduct and may be handled under the applicable disciplinary or academic-integrity procedure.",
+    "source": "leave_and_medical_policy.md",
+    "section": "9. Documentation Integrity",
+    "page": null
+  },
+  {
+    "text": "Students should retain copies of medical submissions, acknowledgements, and approvals. The absence of a personal copy does not itself prove that a submission was or was not received.",
+    "source": "leave_and_medical_policy.md",
+    "section": "10. Record Keeping",
+    "page": null
+  },
+  {
+    "text": "A medical approval can have different consequences depending on the provision invoked. A correction to an attendance record addresses whether a recorded absence was entered incorrectly. An exemption addresses whether a stated eligibility condition can be treated differently.\n\nThe system should not describe an exemption as an attendance-record correction unless the corpus explicitly makes that connection.",
+    "source": "leave_and_medical_policy.md",
+    "section": "11. Attendance Correction Versus Exemption",
+    "page": null
+  },
+  {
+    "text": "ection.",
+    "source": "leave_and_medical_policy.md",
+    "section": "11. Attendance Correction Versus Exemption",
+    "page": null
+  },
+  {
+    "text": "The key retrieval challenge in this document is the relationship between Section 4 and the general 75% rule. A high-quality answer should cite both sections and explain that the corpus contains inconsistent thresholds rather than confidently selecting 60% or 75% without acknowledging the conflict.",
+    "source": "leave_and_medical_policy.md",
+    "section": "12. RuleGuard Test Principle",
+    "page": null
+  },
+  {
+    "text": "MEDICAPS UNIVERSITY | Corporate Relations and Placement Cell \nPlacement Policy Undertaking — Academic Year 2026–27 Page 1 \nMEDICAPS UNIVERSITY \n Career Development Centre \nCorporate Relations and Placement Cell \nPlacement Policy Undertaking | Academic Year 2026–27 \n \nAt the commencement of the placement session, each registered student shall be allotted 100 \nPlacement Discipline Points in their placement account. These points will serve as a measure of \nthe student's compliance with placement ru",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "acement account. These points will serve as a measure of \nthe student's compliance with placement rules, professional conduct, and participation \nrequirements throughout the placement process. \nAny violation of the placement policy shall result in the deduction of points as per the prescribed \npenalty framework. Students are expected to maintain these points to remain eligible for campus \nplacement opportunities. If the total points are reduced to zero, the student shall be debarred \nfrom all fu",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "t opportunities. If the total points are reduced to zero, the student shall be debarred \nfrom all further placement activities of the current academic year on POD. \n1. Registration for Placement Activities \na. I agree to register for the Placement Cycle 2027 by paying the prescribed registration fee of Rs. \n1,000/- (Rupees One Thousand Only), which shall be non-refundable under any circumstances. \nb. I shall create my resume by providing accurate academic, personal, and contact details on POD.",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "b. I shall create my resume by providing accurate academic, personal, and contact details on POD. \nc. I shall regularly check all announcements, notifications, and communications issued by the \nPlacement Cell through the POD portal, email, or other official communication channels. \nd. I shall promptly update the Placement Cell regarding any changes in my academic or contact \ndetails. \n2. Registration for Campus Recruitment Drives \na. I shall register separately for each company's recruitment pr",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "tion for Campus Recruitment Drives \na. I shall register separately for each company's recruitment process as per the official \nnotifications communicated by the Placement Cell. \nb. I understand that I must register within the stipulated deadline for each recruitment process. \nLate or spot registrations shall not be permitted, and failure to register on time shall be \nconsidered as not interested in particular opportunity. \nc. If I remain absent after registering for any recruitment process, Plac",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "n particular opportunity. \nc. If I remain absent after registering for any recruitment process, Placement Discipline Points \nshall be deducted from my account. [−20 points] \nd. If I withdraw at any stage after registering for a recruitment process, Placement Discipline \nPoints shall be deducted from my account. [−30 points] \ne. Failure to participate in any placement process during a semester shall result in deduction of \nPlacement Discipline Points. [−50 points] \n3. Participation in Training an",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "l result in deduction of \nPlacement Discipline Points. [−50 points] \n3. Participation in Training and Placement Readiness Activities \na. I understand that all training sessions, workshops, assessments, and placement readiness activities \norganised by the Placement Cell are mandatory and intended to improve my employability. \nb. If I remain absent in any mandatory training, assessment, or placement-related activity, Placement \nDiscipline Points shall be deducted from my account. [−25 points] \n4.",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "-related activity, Placement \nDiscipline Points shall be deducted from my account. [−25 points] \n4. Conduct During the Campus Recruitment Process \na. I shall carry all required documents — including copies of my updated resume, academic mark \nsheets, University ID card, passport-size photographs, and other relevant documents — during \nthe recruitment process.",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 1",
+    "page": 1
+  },
+  {
+    "text": "MEDICAPS UNIVERSITY | Corporate Relations and Placement Cell \nPlacement Policy Undertaking — Academic Year 2026–27 Page 2 \nb. I shall report to the venue at least 10 minutes before the scheduled start time of the recruitment \nprocess, whether online or offline. \nc. I shall not directly communicate or negotiate with company representatives regarding \nrecruitment matters unless authorised by the Placement Cell. \nd. Any clarification regarding the recruitment process shall be sought only after the",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "cement Cell. \nd. Any clarification regarding the recruitment process shall be sought only after the Pre-Placement \nTalk (PPT). \ne. I shall adhere to the prescribed formal dress code and wear my University ID card during the \nrecruitment process. Failure to comply shall result in deduction of Placement Discipline Points. \n[−25 points] \nf. I shall maintain discipline, decorum, and comply with all instructions issued by the Placement \nCell and company officials. Any misconduct or violation shall re",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "structions issued by the Placement \nCell and company officials. Any misconduct or violation shall result in deduction of Placement \nDiscipline Points. [−50 points] \n5. Off-Campus Placement Participation \na. If I intend to participate in any off-campus placement opportunity independently, I shall obtain \nprior permission from the Placement Cell. \nb. In case I secure an offer through an off-campus opportunity, I shall immediately inform the \nPlacement Cell and submit a copy of the offer letter. \n6",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "pportunity, I shall immediately inform the \nPlacement Cell and submit a copy of the offer letter. \n6. Post-Selection Commitment \na. If I receive an offer through the Placement Cell, I shall accept the offer and join the company as \nper the agreed schedule. Failure to do so shall result in deduction of Placement Discipline Points. \n[−100 points] \nb. If selected for Project Phase 2 (January 2027 – April 2027) through the Placement Cell, I shall \njoin the assigned organisation without fail. [−100 p",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "pril 2027) through the Placement Cell, I shall \njoin the assigned organisation without fail. [−100 points] (Applicable to B. Tech, MBA, and MCA \nstudents only.) \nc. Once employed, I shall fulfil my professional obligations and comply with the employer's \npolicies and code of conduct. Failure to do so shall result in deduction of Placement Discipline \nPoints. [−100 points] \n7. Job Offer Policy — One Job One Student \na. I understand that placement offers are categorised as Base, Advance, and Dream",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "e Job One Student \na. I understand that placement offers are categorised as Base, Advance, and Dream, and I may \nsecure only one offer in each category. \nb. I understand that once selected in a higher category, I shall not be eligible to participate in \ncompanies offering positions in the lower category. \nc. I understand that non-circuit branch students placed in IT companies may be permitted to \nparticipate in recruitment opportunities in core/manufacturing/engineering sectors, subject to \nuniv",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "participate in recruitment opportunities in core/manufacturing/engineering sectors, subject to \nuniversity policy. \n \nPlacement Offer Categorisation \nCATEGORY / COURSE B. Tech, MBA, MCA BBA, B. Com, B.Sc., BCA, Pharmacy \nBase Up to 8.00 LPA Up to 5.00 LPA \nAdvance ₹8.01 – ₹15.00 LPA ₹5.01 – ₹8.00 LPA \nDream Above ₹15.00 LPA Above ₹8.00 LPA",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 2",
+    "page": 2
+  },
+  {
+    "text": "MEDICAPS UNIVERSITY | Corporate Relations and Placement Cell \nPlacement Policy Undertaking — Academic Year 2026–27 Page 3 \n8. Placement Discipline Points Policy \na. Any violation of placement rules shall result in deduction of points as per the penalty structure \ndetailed below. \nb. I understand that if my Placement Discipline Points are reduced to zero, I shall be debarred from \nall further placement-related activities conducted by the Placement Cell (POD). \nc. I agree that the decision of the",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 3",
+    "page": 3
+  },
+  {
+    "text": "ment-related activities conducted by the Placement Cell (POD). \nc. I agree that the decision of the Corporate Relations and Placement Cell in all placement-related \nmatters shall be final and binding. \n \nPlacement Discipline Points — Penalty Summary \nViolation Points Deducted \nAbsence after registering for a recruitment process −20 \nWithdrawal after registration at any stage of recruitment process −30 \nFailure to participate in any placement process / campus drive during a \nsemester −50 \nAbsence",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 3",
+    "page": 3
+  },
+  {
+    "text": "−30 \nFailure to participate in any placement process / campus drive during a \nsemester −50 \nAbsence in mandatory training, assessments, or placement readiness \nactivities −25 \nDress code violation / University ID card not worn during recruitment −25 \nMisconduct or indiscipline during the recruitment process −50 \nFailure to join company after accepting a placement offer −100 \nFailure to join company if selected for Project Phase 2 −100 \nFailure to fulfil post-selection professional obligations −",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 3",
+    "page": 3
+  },
+  {
+    "text": "ny if selected for Project Phase 2 −100 \nFailure to fulfil post-selection professional obligations −100 \n \nDeclaration \nI hereby declare that the information provided by me is true and correct to the best of my knowledge \nand belief. I have fully read and understood the above rules and regulations, and I agree to abide by them \nin letter and spirit. I acknowledge that any vio lation of the above conditions may result in disciplinary \naction, cancellation of my placement registration, and/or deba",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 3",
+    "page": 3
+  },
+  {
+    "text": "onditions may result in disciplinary \naction, cancellation of my placement registration, and/or debarment from placement activities. \nStudent & Parent / Guardian Details \nStudent Name: Parent / Guardian Name: \nStudent Mobile No.: Parent Mobile No.: \nPersonal Email ID: Parent Email ID: \nEnrolment No.: Parent Signature: \nCourse / Specialisation: \nStudent Signature:",
+    "source": "medicaps_placement_policy.pdf",
+    "section": "PDF Page 3",
+    "page": 3
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. This document is not an official Medi-Caps University publication and does not amend the authentic placement-policy PDF included in the corpus.",
+    "source": "placement_addendum.md",
+    "section": "Placement Policy Addendum",
+    "page": null
+  },
+  {
+    "text": "The corpus contains an authentic Medi-Caps University placement-policy PDF. This addendum is synthetic material created only for evaluating retrieval, citation, and conflict detection. It must never be presented as an official amendment to the authentic document.",
+    "source": "placement_addendum.md",
+    "section": "1. Relationship to the Authentic Placement Policy",
+    "page": null
+  },
+  {
+    "text": "Students participating in campus recruitment are expected to follow the procedures and penalties contained in the authentic placement-policy document. The authentic document states, among other provisions, that absence after registering for a recruitment process attracts a 20-point deduction and withdrawal after registration attracts a 30-point deduction.",
+    "source": "placement_addendum.md",
+    "section": "2. Placement Participation",
+    "page": null
+  },
+  {
+    "text": "A student who receives an offer through the placement process should follow the commitment and joining provisions stated in the authentic placement-policy document.",
+    "source": "placement_addendum.md",
+    "section": "3. Offer Acceptance",
+    "page": null
+  },
+  {
+    "text": "**Section PA-4.1:** For this synthetic corpus, a student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.",
+    "source": "placement_addendum.md",
+    "section": "4. Subsequent Recruitment",
+    "page": null
+  },
+  {
+    "text": "A student who has accepted an offer may have an agreed joining date. The synthetic rule in this document does not by itself change the authentic placement policy's provisions concerning acceptance, joining, or placement discipline.",
+    "source": "placement_addendum.md",
+    "section": "5. Joining Date",
+    "page": null
+  },
+  {
+    "text": "**Section PA-6.2:** For this synthetic corpus, a student who has accepted an offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation, provided the student satisfies the eligibility conditions for that recruitment process.\n\n**This provision intentionally conflicts with Section PA-4.1.**",
+    "source": "placement_addendum.md",
+    "section": "6. Second Recruitment Provision",
+    "page": null
+  },
+  {
+    "text": "The conflict is deliberate. A question such as \"I accepted an offer but have not joined the company yet; can I sit for another campus drive?\" should retrieve both PA-4.1 and PA-6.2.\n\nThe correct classification is CONFLICT because the two provisions give incompatible answers to the same circumstance.",
+    "source": "placement_addendum.md",
+    "section": "7. Interpretation of the Conflict",
+    "page": null
+  },
+  {
+    "text": "The authentic placement policy contains a penalty framework. This synthetic addendum should not be used to invent a new numerical penalty unless a section expressly states one.",
+    "source": "placement_addendum.md",
+    "section": "8. Discipline Points",
+    "page": null
+  },
+  {
+    "text": "Students should follow mandatory placement-readiness activities and other instructions in the authentic placement policy. Questions about penalties should cite the authentic PDF when that is the source of the rule.",
+    "source": "placement_addendum.md",
+    "section": "9. Training Activities",
+    "page": null
+  },
+  {
+    "text": "The authentic policy addresses independent off-campus placement participation and requires prior permission. This addendum does not override that provision.",
+    "source": "placement_addendum.md",
+    "section": "10. Off-Campus Opportunities",
+    "page": null
+  },
+  {
+    "text": "The RuleGuard interface should distinguish between evidence from the authentic PDF and evidence from this synthetic addendum. The source name and section reference should make that distinction visible.",
+    "source": "placement_addendum.md",
+    "section": "11. Project Demonstration Rule",
+    "page": null
+  },
+  {
+    "text": "This conflict is a controlled evaluation case. It demonstrates why a system that retrieves only one high-similarity passage can produce a misleading answer. The intended system should retrieve multiple relevant passages and detect incompatible conditions.",
+    "source": "placement_addendum.md",
+    "section": "12. Why the Conflict Exists",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University policy.",
+    "source": "scholarship_policy.md",
+    "section": "Scholarship and Financial Assistance Policy",
+    "page": null
+  },
+  {
+    "text": "This policy defines a fictional scholarship framework for the RuleGuard evaluation corpus. It describes eligibility, renewal, documentation, review, suspension, and administrative handling. The policy is intentionally written with realistic administrative language so that retrieval questions can distinguish direct answers from assumptions.",
+    "source": "scholarship_policy.md",
+    "section": "1. Purpose",
+    "page": null
+  },
+  {
+    "text": "A scholarship applicant must satisfy the eligibility conditions stated for the relevant scholarship category. Conditions may include academic performance, enrolment status, financial documentation, attendance, or another requirement expressly stated in the scholarship notice.\n\nA student should not assume that satisfying one condition guarantees the scholarship. Eligibility is determined using all applicable conditions.",
+    "source": "scholarship_policy.md",
+    "section": "2. Eligibility",
+    "page": null
+  },
+  {
+    "text": "applicable conditions.",
+    "source": "scholarship_policy.md",
+    "section": "2. Eligibility",
+    "page": null
+  },
+  {
+    "text": "Scholarship applications should be submitted through the designated process before the stated deadline. An incomplete application may be returned for correction if the procedure permits correction.\n\nThe student is responsible for ensuring that uploaded documents are legible and correspond to the requested information. A successful upload does not necessarily mean that the application has been approved.",
+    "source": "scholarship_policy.md",
+    "section": "3. Application",
+    "page": null
+  },
+  {
+    "text": "oved.",
+    "source": "scholarship_policy.md",
+    "section": "3. Application",
+    "page": null
+  },
+  {
+    "text": "Supporting documents may include academic records, identity documents, income-related documents, bank information, or other documents identified in the scholarship notice.\n\nThe corpus does not establish a universal list of documents for every scholarship. If a question asks for a document that is not specified for the relevant scholarship, the system should not invent one.",
+    "source": "scholarship_policy.md",
+    "section": "4. Supporting Documents",
+    "page": null
+  },
+  {
+    "text": "A renewal applicant must satisfy the renewal conditions applicable to the scholarship. Renewal is not automatic merely because the student received a scholarship in the previous academic period.\n\nThe synthetic fee schedule lists a standard scholarship-renewal deadline of 15 August and a late-action date of 22 August. However, a separate controlled memorandum in the fee-deadline document states that renewal applications submitted by 20 August are accepted without late classification. These provis",
+    "source": "scholarship_policy.md",
+    "section": "5. Renewal",
+    "page": null
+  },
+  {
+    "text": "t renewal applications submitted by 20 August are accepted without late classification. These provisions are intentionally inconsistent for the conflict evaluation.",
+    "source": "scholarship_policy.md",
+    "section": "5. Renewal",
+    "page": null
+  },
+  {
+    "text": "Where a scholarship notice specifies an academic-performance threshold, the student's academic record should be evaluated using the method stated in that notice. This corpus does not establish one universal percentage or CGPA threshold for every scholarship.\n\nA student should not be told that a particular CGPA guarantees renewal unless the relevant rule explicitly says so.",
+    "source": "scholarship_policy.md",
+    "section": "6. Academic Performance",
+    "page": null
+  },
+  {
+    "text": "Some scholarships may contain an attendance condition, but this document does not create a universal scholarship attendance threshold. Questions about attendance eligibility should be answered from the applicable attendance or scholarship provision.",
+    "source": "scholarship_policy.md",
+    "section": "7. Attendance",
+    "page": null
+  },
+  {
+    "text": "Where financial need is part of a scholarship category, the applicant may be required to provide evidence specified by the relevant notice. A student's statement that financial circumstances have changed is not, by itself, a defined numerical eligibility criterion in this corpus.",
+    "source": "scholarship_policy.md",
+    "section": "8. Financial Circumstances",
+    "page": null
+  },
+  {
+    "text": "The scholarship authority may verify submitted information. If a discrepancy is identified, the applicant may be asked to provide clarification or additional documentation.\n\nThe submission of a document for verification does not automatically establish that the document has been accepted as valid.",
+    "source": "scholarship_policy.md",
+    "section": "9. Verification",
+    "page": null
+  },
+  {
+    "text": "This corpus does not establish a universal rule allowing or prohibiting every combination of scholarships. A question about combining two named scholarships should be answered only if a provision addresses that combination.",
+    "source": "scholarship_policy.md",
+    "section": "10. Multiple Scholarships",
+    "page": null
+  },
+  {
+    "text": "Approved scholarship amounts may be disbursed according to the administrative schedule applicable to the scholarship. Approval and disbursement are separate events.\n\nA student should not interpret an application acknowledgement as proof that payment has been released.",
+    "source": "scholarship_policy.md",
+    "section": "11. Disbursement",
+    "page": null
+  },
+  {
+    "text": "Where bank information is required, the student should provide the information in the format prescribed by the scholarship process. Errors may delay processing.\n\nThe corpus does not specify a particular bank, branch, or payment application as universally mandatory.",
+    "source": "scholarship_policy.md",
+    "section": "12. Bank Information",
+    "page": null
+  },
+  {
+    "text": "A scholarship may be suspended where the applicable scholarship rules provide for suspension. A suspension decision should identify the reason and applicable procedure.\n\nThe corpus does not state that every disciplinary action automatically cancels every scholarship.",
+    "source": "scholarship_policy.md",
+    "section": "13. Suspension",
+    "page": null
+  },
+  {
+    "text": "A student who withdraws from a programme may have scholarship consequences under the applicable scholarship conditions. This document does not establish a universal refund or repayment formula.",
+    "source": "scholarship_policy.md",
+    "section": "14. Withdrawal from a Programme",
+    "page": null
+  },
+  {
+    "text": "A change of programme may affect scholarship eligibility where the scholarship category is tied to a specific programme. Students should seek a determination through the designated process.",
+    "source": "scholarship_policy.md",
+    "section": "15. Change of Programme",
+    "page": null
+  },
+  {
+    "text": "Where a scholarship is awarded on the basis of financial need, a material change may need to be reported if the applicable notice requires it. The corpus does not define a universal monetary threshold for what counts as material.",
+    "source": "scholarship_policy.md",
+    "section": "16. Change of Financial Circumstances",
+    "page": null
+  },
+  {
+    "text": "A standard deadline and a late-action deadline are different concepts. The existence of a late-action date does not necessarily mean that the application will receive the same treatment as an on-time application.\n\nFor the RuleGuard evaluation, the separate 15 August and 20 August provisions create an intentional conflict. The system should show both dates when the user asks for the final date for non-late submission.",
+    "source": "scholarship_policy.md",
+    "section": "17. Deadline Interpretation",
+    "page": null
+  },
+  {
+    "text": "non-late submission.",
+    "source": "scholarship_policy.md",
+    "section": "17. Deadline Interpretation",
+    "page": null
+  },
+  {
+    "text": "A late application may require additional approval, documentation, or review when the relevant notice says so. The corpus does not state that every late application must be rejected.",
+    "source": "scholarship_policy.md",
+    "section": "18. Late Submission",
+    "page": null
+  },
+  {
+    "text": "Where a scholarship decision is subject to an appeal process, the applicant should follow the deadline and submission method stated in the relevant notice. This corpus does not provide a universal appeal period.",
+    "source": "scholarship_policy.md",
+    "section": "19. Appeal",
+    "page": null
+  },
+  {
+    "text": "If an applicant discovers an error before the correction period closes, the applicant should use the prescribed correction mechanism. Sending a second application does not automatically cancel the first application unless the procedure says so.",
+    "source": "scholarship_policy.md",
+    "section": "20. Correction of an Application",
+    "page": null
+  },
+  {
+    "text": "This corpus does not establish a universal penalty for submitting duplicate applications. The system should not invent one.",
+    "source": "scholarship_policy.md",
+    "section": "21. Duplicate Applications",
+    "page": null
+  },
+  {
+    "text": "Submitting false or fabricated information may lead to review under the applicable academic or administrative procedure. The exact consequence depends on the relevant rule and circumstances.",
+    "source": "scholarship_policy.md",
+    "section": "22. False Information",
+    "page": null
+  },
+  {
+    "text": "Students should monitor official notices, maintain copies of submissions, and verify application status. Failure to read a published notice does not automatically extend a deadline.",
+    "source": "scholarship_policy.md",
+    "section": "23. Student Responsibility",
+    "page": null
+  },
+  {
+    "text": "A student may ask the designated office for clarification about an application. Informal advice should not be treated as a formal approval where the policy requires a documented decision.",
+    "source": "scholarship_policy.md",
+    "section": "24. Administrative Assistance",
+    "page": null
+  },
+  {
+    "text": "Where a scholarship category requires committee review, the committee may consider the evidence and applicable criteria. A request for committee review does not guarantee a positive outcome.",
+    "source": "scholarship_policy.md",
+    "section": "25. Committee Review",
+    "page": null
+  },
+  {
+    "text": "Scholarship applications may contain sensitive financial and academic information. The corpus does not create a general right for one student to inspect another student's application.",
+    "source": "scholarship_policy.md",
+    "section": "26. Confidentiality",
+    "page": null
+  },
+  {
+    "text": "The scholarship authority may retain records required for administration and verification. Students should retain their own acknowledgement or receipt where available.",
+    "source": "scholarship_policy.md",
+    "section": "27. Records",
+    "page": null
+  },
+  {
+    "text": "If a student asks about a scholarship not described in the corpus, the system should state that the rulebook does not contain sufficient information. It should not substitute rules from a different scholarship category.",
+    "source": "scholarship_policy.md",
+    "section": "28. Questions Outside the Corpus",
+    "page": null
+  },
+  {
+    "text": "If a student asks, \"When is scholarship renewal normally due?\", the table gives 15 August as the standard deadline. If the student asks, \"What is the final date that is definitely non-late?\", the system encounters the controlled conflict between the 15 August provision and the 20 August memorandum and should return CONFLICT.\n\nIf a student asks, \"Can I renew a scholarship after changing to a different university?\", the corpus does not establish a universal answer. The system should return NOT_COV",
+    "source": "scholarship_policy.md",
+    "section": "29. Examples",
+    "page": null
+  },
+  {
+    "text": "ent university?\", the corpus does not establish a universal answer. The system should return NOT_COVERED unless another retrieved provision directly addresses the situation.",
+    "source": "scholarship_policy.md",
+    "section": "29. Examples",
+    "page": null
+  },
+  {
+    "text": "The scholarship policy is intentionally broad enough to create realistic retrieval noise. Terms such as renewal, approval, deadline, eligibility, and documentation appear in several sections. The retrieval system must use semantic relevance and metadata rather than relying only on exact keyword matching.\n\nThe final generated answer must be grounded in retrieved passages. When the evidence is incomplete, the system should say so. When two applicable provisions disagree, the system should expose t",
+    "source": "scholarship_policy.md",
+    "section": "30. RuleGuard Design Principle",
+    "page": null
+  },
+  {
+    "text": "plete, the system should say so. When two applicable provisions disagree, the system should expose the disagreement rather than silently choosing the passage with the highest similarity score.",
+    "source": "scholarship_policy.md",
+    "section": "30. RuleGuard Design Principle",
+    "page": null
+  },
+  {
+    "text": "An application can have statuses such as submitted, under review, approved, returned for correction, rejected, or otherwise recorded according to the process. The exact status should be taken from the record rather than inferred from the student's expectation. A student who has submitted documents should not be told that the scholarship is approved unless the corpus contains an approval provision or status confirming it.",
+    "source": "scholarship_policy.md",
+    "section": "31. Administrative Status",
+    "page": null
+  },
+  {
+    "text": "or status confirming it.",
+    "source": "scholarship_policy.md",
+    "section": "31. Administrative Status",
+    "page": null
+  },
+  {
+    "text": "When a user asks \"when is it due?\", the system should distinguish the normal deadline from a late-action date whenever both appear. If the question does not specify whether the user means the standard deadline or the last possible submission date, the answer should explain both dates instead of collapsing them into one.",
+    "source": "scholarship_policy.md",
+    "section": "32. Deadline Questions",
+    "page": null
+  },
+  {
+    "text": "This synthetic policy does not establish rules for employment contracts, taxation, immigration, transportation, food services, personal banking, or other topics outside university scholarship administration. A plausible question about one of those subjects is not evidence that a rule exists. The correct response is NOT_COVERED unless another corpus document supplies the answer.",
+    "source": "scholarship_policy.md",
+    "section": "33. Corpus Boundary",
+    "page": null
+  },
+  {
+    "text": "For testing purposes, the scholarship deadline conflict is intentionally preserved even though real administrative policies would normally be expected to reconcile or replace inconsistent notices. RuleGuard must report the evidence it retrieves and must not silently repair the conflict.",
+    "source": "scholarship_policy.md",
+    "section": "34. Evaluation Ground Truth",
+    "page": null
+  },
+  {
+    "text": "Every retrieved passage should retain its source filename and section. If a table row is retrieved, the interface should identify the table and relevant row rather than displaying an unexplained number. This allows a reviewer to trace the answer back to the original corpus material.",
+    "source": "scholarship_policy.md",
+    "section": "35. Source Attribution",
+    "page": null
+  },
+  {
+    "text": "> **Corpus status:** Synthetic project material created for controlled RuleGuard testing. It is not an official Medi-Caps University policy.",
+    "source": "student_conduct.md",
+    "section": "Student Conduct and Administrative Procedures",
+    "page": null
+  },
+  {
+    "text": "Students are expected to follow reasonable instructions issued through authorised university channels and to conduct themselves respectfully in academic and residential environments.",
+    "source": "student_conduct.md",
+    "section": "1. General Conduct",
+    "page": null
+  },
+  {
+    "text": "Students may be required to carry an institutional identity card for specified academic, examination, laboratory, hostel, or placement activities. The exact requirement should be taken from the rule applicable to that activity.",
+    "source": "student_conduct.md",
+    "section": "2. Identity",
+    "page": null
+  },
+  {
+    "text": "Misconduct may include behaviour expressly prohibited by an applicable policy. The consequences depend on the relevant rule and disciplinary procedure.",
+    "source": "student_conduct.md",
+    "section": "3. Misconduct",
+    "page": null
+  },
+  {
+    "text": "A student who wishes to report an administrative or academic issue should use the designated grievance or departmental process. A complaint should state the relevant facts and attach available evidence.",
+    "source": "student_conduct.md",
+    "section": "4. Complaints",
+    "page": null
+  },
+  {
+    "text": "Documents, official acknowledgements, portal records, and other authorised records may be considered in administrative review. Informal statements from other students should not automatically be treated as official decisions.",
+    "source": "student_conduct.md",
+    "section": "5. Evidence",
+    "page": null
+  },
+  {
+    "text": "Where a rule assigns authority to a committee, the committee's decision should be recorded through the applicable procedure. A student should not assume that an individual staff member can exercise a power assigned specifically to a committee.",
+    "source": "student_conduct.md",
+    "section": "6. Committee Decisions",
+    "page": null
+  },
+  {
+    "text": "A student may submit a request for exceptional consideration when the ordinary regulations do not adequately address a documented circumstance. Submission does not guarantee approval.",
+    "source": "student_conduct.md",
+    "section": "7. Exceptional Consideration",
+    "page": null
+  },
+  {
+    "text": "Official decisions should be communicated through an authorised channel. A message saying \"it should be okay\" is not equivalent to a formal approval when the applicable regulation requires documented approval.",
+    "source": "student_conduct.md",
+    "section": "8. Communication",
+    "page": null
+  },
+  {
+    "text": "Students should provide accurate information in academic and administrative submissions. Corrections should be made through the prescribed procedure rather than by altering an already-issued document.",
+    "source": "student_conduct.md",
+    "section": "9. Data Accuracy",
+    "page": null
+  },
+  {
+    "text": "Where an appeal mechanism exists, the student should submit the appeal within the applicable period and identify the decision being challenged.",
+    "source": "student_conduct.md",
+    "section": "10. Appeals",
+    "page": null
+  },
+  {
+    "text": "Students should avoid sharing another person's academic record or personal information unnecessarily. This corpus does not create a general entitlement to access another student's confidential record.",
+    "source": "student_conduct.md",
+    "section": "11. Privacy",
+    "page": null
+  },
+  {
+    "text": "The absence of a provision should be treated as meaningful for the purposes of this project. If the corpus does not state what happens in a particular situation, the system should classify the question as NOT_COVERED rather than filling the gap from general university practice.",
+    "source": "student_conduct.md",
+    "section": "12. Silence of the Corpus",
+    "page": null
+  },
+  {
+    "text": "The system's job is evidence retrieval and grounded response generation, not policy invention. The answer should be supported by retrieved passages and should show the source and section for each material claim.",
+    "source": "student_conduct.md",
+    "section": "13. RuleGuard Principle",
+    "page": null
+  }
+]

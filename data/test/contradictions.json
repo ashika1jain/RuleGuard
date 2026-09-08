@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CONFLICT_01",
+    "topic": "Medical attendance threshold",
+    "section_a": "attendance_policy.md \u00a73",
+    "rule_a": "Students must maintain at least 75% attendance in a course to be eligible for the corresponding end-semester examination, unless a specific approved exception applies.",
+    "section_b": "leave_and_medical_policy.md \u00a74",
+    "rule_b": "For the controlled corpus, an approved medical-leave case may be considered for examination eligibility when course attendance is at least 60%.",
+    "test_condition": "Student has 68% attendance and approved medical leave.",
+    "expected_type": "CONFLICT"
+  },
+  {
+    "id": "CONFLICT_02",
+    "topic": "Subsequent campus recruitment after accepting an offer",
+    "section_a": "placement_addendum.md \u00a74.1",
+    "rule_a": "A student who has accepted a campus placement offer shall not participate in any subsequent campus recruitment process.",
+    "section_b": "placement_addendum.md \u00a76.2",
+    "rule_b": "A student who has accepted an offer may participate in a subsequent campus recruitment process until the date on which the student formally joins the organisation.",
+    "test_condition": "Student accepted an offer but has not formally joined the organisation.",
+    "expected_type": "CONFLICT"
+  },
+  {
+    "id": "CONFLICT_03",
+    "topic": "Scholarship renewal deadline",
+    "section_a": "fee_deadlines.md \u00a713.1",
+    "rule_a": "A controlled administrative notice states that scholarship renewal applications must be received by 15 August.",
+    "section_b": "fee_deadlines.md \u00a713.2",
+    "rule_b": "A separate project scholarship memorandum states that scholarship renewal applications submitted by 20 August will be accepted without late classification.",
+    "test_condition": "Student asks for the final non-late scholarship renewal date.",
+    "expected_type": "CONFLICT"
+  }
+]
