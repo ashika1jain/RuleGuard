@@ -47,10 +47,10 @@ Where an appeal mechanism exists, the student should submit the appeal within th
 
 Students should avoid sharing another person's academic record or personal information unnecessarily. This corpus does not create a general entitlement to access another student's confidential record.
 
-### 12. Silence of the Corpus
+### 12. Unspecified Situations
 
-The absence of a provision should be treated as meaningful for the purposes of this project. If the corpus does not state what happens in a particular situation, the system should classify the question as NOT_COVERED rather than filling the gap from general university practice.
+Where this policy does not address a particular situation, the applicable university regulation or administrative procedure should be consulted rather than assuming that a general practice applies.
 
-### 13. RuleGuard Principle
+### 13. Documentation and Interpretation
 
-The system's job is evidence retrieval and grounded response generation, not policy invention. The answer should be supported by retrieved passages and should show the source and section for each material claim.
+Administrative decisions should be based on the applicable provisions and supporting records. Where a matter is governed by a specific procedure, that procedure should be consulted together with any relevant supporting documentation.
