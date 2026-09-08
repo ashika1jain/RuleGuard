@@ -85,3 +85,106 @@ RuleGuard addresses these issues by combining semantic retrieval, evidence filte
                               |
                               v
                        React Frontend
+
+---
+
+## Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- Uvicorn
+- Pydantic
+- Sentence Transformers
+- FAISS
+- PyPDF
+- Google Gemini API
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide Icons
+
+### AI & Retrieval
+- `all-MiniLM-L6-v2` — text embeddings
+- FAISS — vector similarity search
+- Gemini — evidence analysis and classification
+
+---
+
+## How It Works
+
+RuleGuard follows an evidence-first RAG pipeline:
+
+1. **Document Ingestion**  
+   Policy documents in PDF and Markdown format are loaded while preserving source and section metadata.
+
+2. **Chunking**  
+   Documents are divided into overlapping text chunks to improve retrieval.
+
+3. **Embedding Generation**  
+   Each chunk is converted into a 384-dimensional vector using `all-MiniLM-L6-v2`.
+
+4. **Semantic Retrieval**  
+   FAISS retrieves the most relevant policy passages for the user's question.
+
+5. **Evidence Filtering**  
+   Retrieved passages are filtered based on similarity scores before being passed to the reasoning layer.
+
+6. **Evidence Analysis**  
+   Gemini analyzes the user's question using only the retrieved policy evidence.
+
+7. **Classification**  
+   The system classifies the query as:
+   - `ANSWERED`
+   - `NOT_COVERED`
+   - `CONFLICT`
+
+8. **Evidence Display**  
+   The frontend displays the classification along with the supporting policy passages, source documents, sections, pages, and similarity scores.
+
+---
+
+## Classification
+
+| Classification | Description |
+|---|---|
+| **ANSWERED** | Sufficient and consistent evidence is available to answer the question. |
+| **NOT_COVERED** | The indexed policy corpus does not contain sufficient evidence to answer the question. |
+| **CONFLICT** | Two or more applicable policy provisions contain incompatible requirements or outcomes. |
+
+---
+
+## Project Structure
+
+```text
+RuleGuard/
+├── data/
+│   ├── raw/
+│   ├── test/
+│   └── vector_store/
+│
+├── frontend/
+│   └── src/
+│       ├── components/
+│       ├── services/
+│       ├── App.tsx
+│       └── types.ts
+│
+├── src/
+│   ├── api/
+│   ├── decisions/
+│   ├── embeddings/
+│   ├── ingestion/
+│   ├── llm/
+│   └── retrieval/
+│
+├── .env.example
+├── .gitignore
+├── README.md
+└── requirements.txt
+
+
+<img width="1710" height="1016" alt="image" src="https://github.com/user-attachments/assets/173cf99d-4fee-44cd-9bc4-02ec166da274" />
